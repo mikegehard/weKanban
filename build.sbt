@@ -8,3 +8,7 @@ seq(webSettings :_*)
 
 libraryDependencies += "org.eclipse.jetty" % "jetty-webapp" % "8.0.1.v20110908" % "container"
 
+libraryDependencies += "org.scalaz" %% "scalaz-core" % "6.0.3"
+
+libraryDependencies += "org.scalaz" %% "scalaz-http" % "6.0.3"
+
