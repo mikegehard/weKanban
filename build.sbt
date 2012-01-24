@@ -12,3 +12,7 @@ libraryDependencies += "org.scalaz" %% "scalaz-core" % "6.0.3"
 
 libraryDependencies += "org.scalaz" %% "scalaz-http" % "6.0.3"
 
+libraryDependencies += "com.h2database" % "h2" % "1.2.137"
+
+libraryDependencies += "org.squeryl" %% "squeryl" % "0.9.5-RC1"
+
